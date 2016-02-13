@@ -235,6 +235,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Bristol](https://www.facebook.com/groups/free.code.camp.bristol.uk/)    
   - [Bury St Edmunds](https://www.facebook.com/groups/free.code.camp.Bury.St.Edmunds/)
   - [Cambridge](https://www.facebook.com/groups/free.code.camp.cambridge/)
+  - [Chester](https://www.facebook.com/groups/free.code.camp.chester)
   - [Coventry](https://www.facebook.com/groups/free.code.camp.coventry/)
   - [Derby](https://www.facebook.com/groups/free.code.camp.derby/)
   - [Exeter](https://www.facebook.com/groups/free.code.camp.exeter.uk/)    
