@@ -812,6 +812,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Folsom](https://www.facebook.com/groups/free.code.camp.folsom)
     - [Fremont](https://www.facebook.com/groups/free.code.camp.fremont/)
     - [Fresno](https://www.facebook.com/groups/free.code.camp.fresno.ca/)
+    - [Gilroy](https://www.facebook.com/groups/free.code.come.gilroy/)
     - [Glendora](https://www.facebook.com/groups/free.code.camp.Glendora.California/)
     - [Joshua Tree](https://www.facebook.com/groups/free.code.camp.Joshua.Tree.Ca/)
     - [Lake Forest](https://www.facebook.com/groups/free.code.camp.lake.forest.ca/)
