@@ -222,6 +222,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Santo Domingo](https://www.facebook.com/groups/free.code.camp.dr/)
 - Ecuador
   - [Cuenca](https://www.facebook.com/groups/free.code.camp.cuenca/)
+  - [Guayaquil](https://www.facebook.com/groups/free.code.camp.guayaqui.ecuador/)
   - [Quito](https://www.facebook.com/groups/free.code.camp.quito/)    
 - Egypt
   - [Al-Mansoura](https://www.facebook.com/groups/free.code.camp.almansoura/)    
